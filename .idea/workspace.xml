@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3352c017-482a-4245-b71c-f62786bd6727" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/TestCommands.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/TestCommands2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/command_model/Command.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/command_model/EditConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/command_model/Invoker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/command_model/Memento.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/command_model/commands/AddCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/command_model/commands/EditPositionCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/command_model/commands/RemoveCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/service/WordAPIService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/service/impl/WordAPIServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/utils/Objectives" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/word/ofer/stempler/main/utils/Utils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/TestCommands.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/TestCommands2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/command_model/Command.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/command_model/EditConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/command_model/Invoker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/command_model/Memento.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/command_model/commands/AddCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/command_model/commands/EditPositionCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/command_model/commands/RemoveCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/service/WordAPIService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/service/impl/WordAPIServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/utils/Objectives" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ofer/stempler/main/utils/Utils.java" afterPath="" />
+    <list default="true" id="3352c017-482a-4245-b71c-f62786bd6727" name="Default" comment="minor edit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -95,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/src/ofer/stempler/word/service/impl/WordAPIServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="127">
-              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -395,90 +369,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="word" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="o.s.w.utils" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="o.s.w.service.impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="o.s.w.service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="o.s.w.command_model.commands" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="o.s.w.command_model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="o.s.word" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -981,16 +871,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524546780430</updated>
-      <workItem from="1524546784504" duration="45166000" />
+      <workItem from="1524546784504" duration="45300000" />
     </task>
+    <task id="LOCAL-00001" summary="minor edit">
+      <created>1524836765067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524836765067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45166000" />
+    <option name="totallyTimeSpent" value="45300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1013,7 +911,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.50877196" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3075697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3075697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1029,6 +927,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="minor edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor edit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1252,7 +1154,7 @@
     <entry file="file://$PROJECT_DIR$/src/ofer/stempler/word/service/impl/WordAPIServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
